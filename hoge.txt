@@ -1,3 +1,4 @@
 file is changed.
 file is changed by master
+file is changed bby try-conflict
 
